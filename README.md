@@ -1,4 +1,4 @@
-# compactador-descompactador-com-Codifica-o-de-Huffman-
+# compactador-descompactador-com-Codificao-de-Huffman-
 implementação em c de um compactador/desscompactador com Codificação de Huffman usando uma lista ligada
 
-Os detralhes do problema estão no pdf enunciado
+Os detalhes do problema estão no pdf enunciado
